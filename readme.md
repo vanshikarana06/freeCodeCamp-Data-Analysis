@@ -4,7 +4,7 @@ This repository contains my solutions to the five certification projects for the
 
 ## 🚀 Projects Included
 
-1. **[Mean-Variance-Standard Deviation Calculator](./01-Mean-Variance-Std-Calculator)**
+1. **[Mean-Variance-Standard Deviation Calculator](./01-mean-variance-Std-Calculator)**
    - Calculations using NumPy for various statistical measures.
 2. **[Demographic Data Analyzer](./01-demographic)**
    - Analysis of census data to extract demographic insights using Pandas.
@@ -21,4 +21,4 @@ This repository contains my solutions to the five certification projects for the
 - **Tools:** VS Code, Git/GitHub, Git Bash
 
 ## 🎓 About Me
-I am a 3rd-year B.Tech CSE student specializing in AI/ML and currently preparing for the **GATE 2026** exam. I am passionate about building data-driven solutions, such as my current work on a **Legal Advisor Chatbot**.
+I am a 3rd-year B.Tech CSE student passionate about AI/ML . 

@@ -1,16 +1,14 @@
 import numpy as np
 
 def calculate(list):
-    # 1. Check if the input list has exactly 9 elements
+    # Check if the input list has exactly 9 elements
     if len(list) != 9:
         raise ValueError("List must contain nine numbers.")
 
-    # 2. Convert the list into a 3x3 Numpy array
-    # This aligns with the matrix operations you'll see in GATE CSE math
+    #Convert the list into a 3x3 Numpy array
     matrix = np.array(list).reshape(3, 3)
 
     # 3. Calculate metrics along Axis 0 (Columns), Axis 1 (Rows), and Flattened
-    # .tolist() is used because the project requires standard Python lists
     calculations = {
         'mean': [
             matrix.mean(axis=0).tolist(), 

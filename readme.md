@@ -6,7 +6,7 @@ This repository contains my solutions to the five certification projects for the
 
 1. **[Mean-Variance-Standard Deviation Calculator](./01-Mean-Variance-Std-Calculator)**
    - Calculations using NumPy for various statistical measures.
-2. **[Demographic Data Analyzer](./02-Demographic-Data-Analyzer)**
+2. **[Demographic Data Analyzer](./02-Demographic)**
    - Analysis of census data to extract demographic insights using Pandas.
 3. **[Medical Data Visualizer](./03-Medical-Data-Visualizer)**
    - Exploring health data through categorical plots and correlation heatmaps.

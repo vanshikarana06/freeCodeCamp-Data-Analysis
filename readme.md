@@ -6,13 +6,13 @@ This repository contains my solutions to the five certification projects for the
 
 1. **[Mean-Variance-Standard Deviation Calculator](./01-Mean-Variance-Std-Calculator)**
    - Calculations using NumPy for various statistical measures.
-2. **[Demographic Data Analyzer](./02-Demographic)**
+2. **[Demographic Data Analyzer](./01-demographic)**
    - Analysis of census data to extract demographic insights using Pandas.
-3. **[Medical Data Visualizer](./03-Medical-Data-Visualizer)**
+3. **[Medical Data Visualizer](./03-medical-data-visualizer)**
    - Exploring health data through categorical plots and correlation heatmaps.
-4. **[Page View Time Series Visualizer](./04-Page-View-Visualizer)**
+4. **[Page View Time Series Visualizer](./04-page-view-visualizer)**
    - Identifying trends and seasonality in forum traffic using Matplotlib and Seaborn.
-5. **[Sea Level Predictor](./05-Sea-Level-Predictor)**
+5. **[Sea Level Predictor](./03-sea_level_predictor)**
    - Predicting future sea level rise using linear regression models.
 
 ## 🛠️ Tech Stack
